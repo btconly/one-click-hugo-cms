@@ -1,6 +1,6 @@
 ---
 title: BTC Only
-subtitle: BTC the only bitcoin.
+subtitle: The only bitcoin.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why BTC?
