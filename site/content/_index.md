@@ -4,7 +4,7 @@ subtitle: BTC is the only bitcoin.
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why BTC?
-  text: BTC is the only bitcoin.
+  text: BTC the only bitcoin.
 intro:
   heading: What BTC offers
   text: BTC offers more.
